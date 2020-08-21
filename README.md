@@ -1,4 +1,4 @@
-# AWS-Essential
+# AWS-Essentials
 
 PROJECT 1:
 Deploying a web server in Windows instance
